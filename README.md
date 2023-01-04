@@ -4,4 +4,4 @@ This project is to use histogram of oriented gradients method to detect the pede
 
 Note: The ipynb file may contains some bugs, and the print output process is running infinitely so it may run out of memory.
 
-##This project is only for assignment purpose.
+#This project is only for assignment purpose.
